@@ -31,7 +31,7 @@ if [ $? -eq 0 ] ; then
     echo "$green Override for nginx.service.d successfully created $white"
     echo ""
 else
-    echo "$red ERROR - $white File missing. Probably failed to crete the override file!"
+    echo "$red ERROR - $white File missing. Probably failed creating the override file!"
 fi
 
 sleep 2

@@ -2,4 +2,4 @@
 
 Reference: https://www.cloudinsidr.com/content/heres-fix-nginx-error-failed-read-pid-file-linux/
 <br/>
-Thanks cloud insidr!
+Thanks cloud insidr! ❤️
